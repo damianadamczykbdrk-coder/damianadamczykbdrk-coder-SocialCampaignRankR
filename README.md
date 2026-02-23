@@ -124,11 +124,3 @@ porównywania kampanii marketingowych w ujęciu wielokryterialnym,
 demonstracji metod MCDA i BWM w zastosowaniach praktycznych,
 
 celów dydaktycznych i projektów analitycznych.
-
-Jeżeli chcesz, mogę teraz:
-
-przygotować wersję w języku angielskim w stylu publikacyjnym,
-
-dopasować tekst do wymogów pracy dyplomowej,
-
-albo skrócić go do bardziej syntetycznej wersji repozytoryjnej.
