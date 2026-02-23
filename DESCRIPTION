@@ -2,7 +2,7 @@ Package: SocialCampaignRankR
 Title: Ranking Social Media Channels Using Fuzzy MCDA Methods
 Version: 0.1.0
 Authors@R: 
-    person("Damian", "Adamczyk", email = "damian.adamczyk@student.edu", role = c("aut", "cre"))
+    person("Damian", "Adamczyk", email = "damian.adamczyk@student.edu.pl", role = c("aut", "cre"))
 Description: 
     Tools for ranking social media channels or marketing campaigns using
     multi-criteria decision analysis (MCDA). The package supports fuzzy data
